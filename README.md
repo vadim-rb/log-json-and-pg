@@ -8,5 +8,5 @@
 create table log (id int, message varchar, route varchar, host varchar)
 - при появление строки с JSONом, удоволетворяющему паттерну, этот JSON будет разобран и значение ключей будет записано в соответствующие столбцы
 
-*main.bin бинарник созданынный с помощью Nuitka
+*main.bin бинарник созданный с помощью Nuitka
 
